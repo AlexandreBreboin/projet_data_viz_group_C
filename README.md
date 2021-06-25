@@ -1,4 +1,5 @@
-# projet_data_viz_group_C
+# Data Vizualisations on World Deforestation
+## project_data_viz_group_C
 Project using Altair for Télécom Paris course
 
 Authors : Alexandre Breboin, Bertrand Coureaud, Laurent Nguyen, Roberto Nobrega, Valentin Pannier.
